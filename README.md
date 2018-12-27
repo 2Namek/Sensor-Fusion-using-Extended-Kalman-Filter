@@ -35,8 +35,6 @@ The following flow-chart summerizes the algorithm:
 
 For setting up the environmernment and how to use the simulator, check the [CarND-Extended-Kalman-Filter-Project](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project)
 
-In the following, I will be giving some brief notes about the algorithm implementation with some code snippents without going in any deep details related to the KF and EKF science.
-
 If you need to know more about KF, please visit the lectures from [iLectureOnline](http://www.ilectureonline.com/lectures/subject/SPECIAL%20TOPICS/26/190) and the SDCND sensor fusion module.
 ## Conclusion
 ---
